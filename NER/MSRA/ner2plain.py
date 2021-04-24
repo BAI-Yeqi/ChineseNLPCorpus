@@ -11,7 +11,6 @@ from utils.list2txt import list2txt, txt2list
 
 
 ner_labels = ['/o ', '/nr ', '/nt ', '/ns ']
-chn_puncs = ['。', '，', '：', '、']
 
 
 def parse_args():
